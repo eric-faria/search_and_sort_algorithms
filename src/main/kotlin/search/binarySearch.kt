@@ -23,7 +23,7 @@ fun binarySearch(list: List<Int>, value: Int): Int {
 
 fun main() {
     val list = listOf(1, 3, 5, 7, 9, 11, 13, 15)
-    val value = 13
+    val value = 11
 
     val res = binarySearch(list, value)
 
